@@ -1,5 +1,5 @@
 PODS:
-  - awesome_notifications (0.7.5):
+  - awesome_notifications (3.7.12):
     - Flutter
     - IosAwnCore
   - device_info (0.0.1):
@@ -8,7 +8,7 @@ PODS:
   - fluttertoast (0.0.2):
     - Flutter
     - Toast
-  - IosAwnCore (0.7.5)
+  - IosAwnCore (3.7.12)
   - path_provider_foundation (0.0.1):
     - Flutter
     - FlutterMacOS

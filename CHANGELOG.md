@@ -1,4 +1,4 @@
-## [0.7.5]
+## [3.7.12]
 ### Added
 * Translation feature to notifications based on app configurations or custom configurations
 * AwnAppGroupName property on info.plist to support custom App Group names on iOS
